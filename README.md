@@ -2,6 +2,7 @@
 This project will be developed and used based on the Melbourne Research Cloud. The process and implementation of the project will be described below.<br>
 Project: Unimelb COMP90024 - Automatic Deploy<br>
 Author: jiyuan Chen 1323889<br>
+Project score: 31/40
 
 # File Structure Description
 <pre>
