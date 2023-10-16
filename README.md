@@ -3,6 +3,8 @@ This project will be developed and used based on the Melbourne Research Cloud. T
 Project: Unimelb COMP90024 - Automatic Deploy<br>
 Author: jiyuan Chen 1323889<br>
 Project score: 31/40
+Project report:[PDF](https://example.com/example.pdf](https://github.com/Boomm-shakalaka/ansible/tree/main/report_file/Report.pdf)
+
 
 # File Structure Description
 <pre>
